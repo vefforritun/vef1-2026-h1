@@ -1,10 +1,10 @@
 # Vefforritun 1, 2026, hópverkefni 1
 
-Útgáfa 0.1.
+Útgáfa 0.2.
 
 Verkefnið felst í því að smíða vef eftir forskrift.
 
-Gefin verður hönnun í Figma skjali (áætlað 14. september).
+[Hönnun er gefin í Figma]([url](https://www.figma.com/design/ND7SiMmrXuh9RkPBweX53O/vef1-2026-h1?node-id=1480-0&t=pp3je4HEib7Dah2e-1)).
 
 ## Hópavinna
 
@@ -36,17 +36,27 @@ Setja skal upp Sass og stylelint með `stylelint-config-sass-guidelines` og `sty
 
 Nota skal gefið `.gitignore` skjal og bæta við ef þörf er á.
 
+## Efni
+
+Allt efni og myndir skal taka úr Figma hönnun.
+
 ## Aðstoð
 
 Ekki er heimilt að nota stór mállíkön til að vinna verkefni í námskeiðinu, [sjá nánar um notkun](https://github.com/vefforritun/vef1-2026/blob/main/mallikon.md).
 
 ## Mat
 
-Kemur seinna.
+- 10% - README eftir forskrift, tæki og tól uppsett, vefur keyrir á Netilfy.
+- 10% - Git og GitHub, a.m.k. fimm Pull Request.
+- 10% – Snyrtilegt, gilt (skv. stylelint) CSS/Sass, gilt og aðgengilegt HTML.
+- 20% – Almennt útlit (haus, fótur, meginmál) og skalanleiki.
+- 25% – Forsíða.
+- 15% – Teymissíða.
+- 15% – Innskráningarsíða.
 
 ## Sett fyrir
 
-- Forsendur kynntar í fyrirlestri 7. september 2026.
+Verkefni sett fyrir í fyrirlestri 14. september 2026.
 
 ## Skil
 
@@ -82,3 +92,4 @@ Nýjustu útgáfu af verkefni má [nálgast á GitHub](https://github.com/veffor
 | Útgáfa | Lýsing        |
 | ------ | ------------- |
 | 0.1    | Fyrsta útgáfa |
+| 0.2    | Hönnun og mat |
