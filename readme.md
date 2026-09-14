@@ -4,7 +4,7 @@
 
 Verkefnið felst í því að smíða vef eftir forskrift.
 
-[Hönnun er gefin í Figma]([https://www.figma.com/design/ND7SiMmrXuh9RkPBweX53O/vef1-2026-h1?node-id=1480-0&t=pp3je4HEib7Dah2e-1).
+[Hönnun er gefin í Figma](https://www.figma.com/design/ND7SiMmrXuh9RkPBweX53O/vef1-2026-h1?node-id=1480-0&t=pp3je4HEib7Dah2e-1).
 
 ## Hópavinna
 
